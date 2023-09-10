@@ -3,7 +3,7 @@ package crypto
 import (
 	"errors"
 
-	"github.com/nio-net/neatio/utilities/common"
+	"github.com/nio-net/nio/utilities/common"
 )
 
 func CheckConsensusPubKey(from common.Address, consensusPubkey, signature []byte) error {
