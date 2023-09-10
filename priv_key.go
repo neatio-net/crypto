@@ -4,7 +4,7 @@ import (
 	"bytes"
 
 	secp256k1 "github.com/btcsuite/btcd/btcec"
-	ethcrypto "github.com/nio-net/neatio/utilities/crypto"
+	ethcrypto "github.com/nio-net/nio/utilities/crypto"
 	"github.com/nio-net/bls"
 	. "github.com/nio-net/common"
 	"github.com/nio-net/data"
